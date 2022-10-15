@@ -18,3 +18,32 @@
   - 메토어는 가상현실, 증강현실을 통해서 옷을 구매할 수 있는 시장이다.
   - 언제, 어디서든, 누구나 VR기기, 스마트미러, 스마트폰을 가지고 있으면 쉽고 재미있게 본인에게 어울리는 옷을 구매할 수 있다.
   - 메토어 프로젝트는 앞으로 오프라인 옷 매장이 모두 사라지는 것을 목표로 한다.
+
+
+------
+**<div align="center">shell programming</div>**
+======
+
+- ex3-0.sh
+<div align="center"> <img src="./src/shell/img/ex3-0.png" width="50%" height="50%"></div>
+- ex3-1.sh
+<div align="center"> <img src="./src/shell/img/ex3-1.png" width="50%" height="50%"></div>
+- ex3-2.sh
+<div align="center"> <img src="./src/shell/img/ex3-2.png" width="50%" height="50%"></div>
+- ex3-3.sh
+<div align="center"> <img src="./src/shell/img/ex3-3.png" width="50%" height="50%"></div>
+- ex3-4.sh
+<div align="center"> <img src="./src/shell/img/ex3-4.png" width="50%" height="50%"></div>
+- ex3-5.sh
+<div align="center"> <img src="./src/shell/img/ex3-5.png" width="50%" height="50%"></div>
+- ex3-6.sh
+<div align="center"> <img src="./src/shell/img/ex3-6.png" width="50%" height="50%"></div>
+- ex3-7.sh
+<div align="center"> <img src="./src/shell/img/ex3-7.png" width="50%" height="50%"></div>
+- ex3-8.sh
+<div align="center"> <img src="./src/shell/img/ex3-8.png" width="50%" height="50%"></div>
+- ex3-9.sh
+<div align="center"> <img src="./src/shell/img/ex3-9.png" width="50%" height="50%"></div>
+
+
+-------
