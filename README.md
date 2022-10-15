@@ -27,23 +27,23 @@
 - ex3-0.sh
 <div align="center"> <img src="./src/shell/img/ex3-0.png" width="50%" height="50%"></div>
 - ex3-1.sh
-<div align="center"> <img src="./src/shell/img/ex3-1.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-1.png" width="70%" height="50%"></div>
 - ex3-2.sh
-<div align="center"> <img src="./src/shell/img/ex3-2.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-2.png" width="70%" height="50%"></div>
 - ex3-3.sh
-<div align="center"> <img src="./src/shell/img/ex3-3.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-3.png" width="70%" height="50%"></div>
 - ex3-4.sh
-<div align="center"> <img src="./src/shell/img/ex3-4.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-4.png" width="70%" height="50%"></div>
 - ex3-5.sh
-<div align="center"> <img src="./src/shell/img/ex3-5.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-5.png" width="70%" height="50%"></div>
 - ex3-6.sh
-<div align="center"> <img src="./src/shell/img/ex3-6.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-6.png" width="70%" height="50%"></div>
 - ex3-7.sh
-<div align="center"> <img src="./src/shell/img/ex3-7.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-7.png" width="70%" height="50%"></div>
 - ex3-8.sh
-<div align="center"> <img src="./src/shell/img/ex3-8.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-8.png" width="70%" height="50%"></div>
 - ex3-9.sh
-<div align="center"> <img src="./src/shell/img/ex3-9.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-9.png" width="70%" height="50%"></div>
 
 
 -------
