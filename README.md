@@ -25,7 +25,7 @@
 ======
 
 - ex3-0.sh
-<div align="center"> <img src="./src/shell/img/ex3-0.png" width="50%" height="50%"></div>
+<div align="center"> <img src="./src/shell/img/ex3-0.png" width="70%" height="50%"></div>
 - ex3-1.sh
 <div align="center"> <img src="./src/shell/img/ex3-1.png" width="70%" height="50%"></div>
 - ex3-2.sh
