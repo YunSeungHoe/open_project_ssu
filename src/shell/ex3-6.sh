@@ -1,16 +1,22 @@
 #!/bin/bash
 
-echo "file0.txt file1.txt file2.txt file3.txt file4.txt $1.tar.gz"
-if [ ! -d $1 ]
-then
-	mkdir $1 
+if [ ! -d $1 ];
+then 
+	mkdir -p $1
 fi
 
+eval "cd $1"
 for i in {0..4}
-do 
-	touch $1/file$i.txt
-	echo "file$i.txt"
-done
+do
+	eval "touch 'file$i.txt'"
+done 
 
-tar czvf $1.tar.gz $1 > /dev/null
-mv $1.tar.gz $1
+eval "tar cf $1'.tar' *"
+ls
+eval "mkdir $1"
+
+eval "tar xvf $1.tar -C ./$1"
+
+mv $1.tar $1 
+
+exit 0
